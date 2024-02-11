@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenishBahsirBhat
 - 👀 I’m a System Engineer
-- 🌱 I’m currently learning HTML, CSS, SQL, Github.
+- 🌱 I’m currently learning HTML, CSS, SQL, and Github.
 - 😄 Pronouns: SHE/HER
 
 
